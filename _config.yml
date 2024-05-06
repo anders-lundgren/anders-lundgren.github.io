@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Anders Lundgren # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Curious software engineer with a background in speech technology, augmented reality, model driven development and more. 
   <br><br>
-  Second description 
+  LinkedIn 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/anderslu/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
