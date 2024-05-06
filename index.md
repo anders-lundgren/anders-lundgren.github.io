@@ -4,18 +4,19 @@
 
 ### Projects
 ---
-## web-ifc-babylon - a Web-based IFC viewer based on ifc-js and babylon.js
-https://github.com/anders-lundgren/web-ifc-babylon 
+## A Web-based IFC viewer based on ifc-js and babylon.js
+[web-ifc-babylon](https://github.com/anders-lundgren/web-ifc-babylon)
 ---
-[BIM Experience - An augmented reality collaboration platform for hybrid colocated and remote collaboration](https://informationexperience.se)
-https://www.youtube.com/watch?v=RcGF3GcGDNU
+## BIM Experience
+[An augmented reality collaboration platform for hybrid colocated and remote collaboration](https://www.youtube.com/watch?v=RcGF3GcGDNU)
+
 ---
 
 ### Publications
 
 - [An HMM-based Text-To-Speech System applied to Swedish](https://www.speech.kth.se/prod/publications/files/1686.pdf)
 
-An HMM-based Text-To-Speech System applied to Swedish
+## An HMM-based Text-To-Speech System applied to Swedish
 <br>
 Department of Speech, Music and Hearing, Royal Institute of Technology, Stockholm, Sweden · Apr 30, 2005. 
 <br>
